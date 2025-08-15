@@ -1,19 +1,19 @@
-<h1 align="center"># 🌐 Internet of Things (IoT) ✨</h1>
+<h1 align="center">🌐 Internet of Things (IoT) ✨</h1>
 
 (｡•̀ᴗ-)✧ Welcome!
 
-<h3>This repo explores what IoT is, why it's useful, and how it's changing the world — especially in **Education** and **Information Technology**!</h3>
+<h2>This repo explores what IoT is, why it's useful, and how it's changing the world — especially in <b>Education</b> and <b>Information Technology</b>!</h2>
 
-## ❓ What's this about?
+<h3 align="center">❓ What's this about?</h3>
 
 IoT connects everyday objects to the internet so they can collect, share, and analyze data — making life smarter and easier. 🧠💡
 
-## 🎓 Where is IoT used?
+<h3 align="center">🎓 Where is IoT used?</h3>
 
 - 📚 **Education:** For smarter classrooms, remote learning, and tracking student progress.
 - 💻 **IT:** For monitoring systems, boosting cybersecurity, and automating processes.
 
-## 💡 Examples
+<h3 align="center">💡 Examples</h3>
 
 - 🖊️ **C-PEN**: A smart pen that reads and translates text — perfect for students!
 - 🏢 **Cisco Meraki Sensors**: Help IT teams monitor data centers and smart buildings.
