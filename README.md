@@ -1,8 +1,8 @@
-# 🌐 Internet of Things (IoT) ✨
+<h1 align="center"># 🌐 Internet of Things (IoT) ✨</h1>
 
 (｡•̀ᴗ-)✧ Welcome!
 
-This repo explores what IoT is, why it's useful, and how it's changing the world — especially in **Education** and **Information Technology**!
+<h3>This repo explores what IoT is, why it's useful, and how it's changing the world — especially in **Education** and **Information Technology**!</h3>
 
 ## ❓ What's this about?
 
