@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Application Development and Emerging Tech) ✨</h1>
+<h1 align="center">🌐 Application Development and Emerging Tech✨</h1>
 
 <h2>❓ What's this about?</h2>
 
