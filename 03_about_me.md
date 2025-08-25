@@ -1,6 +1,6 @@
 # About Me
 
-**Name:** Evangeline Anggana
+**Name:** Evangeline B. Anggana
 
 **Course/Year:** BS Information Systems, 3rd Year  
 
