@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <button id="btn">Change Background</button>
+    <p id="msg"></p>
+
+    <script>
+      document.getElementById("btn").onclick = () => {
+        document.body.style.backgroundColor = "lightblue";
+      };
+
+      let favColor = prompt("What is your favorite color?");
+      document.getElementById("msg").innerText = `Your favorite color is ${favColor}`;
+
+      setTimeout(() => {
+        document.getElementById("msg").innerText += "\nThis message appears after 2 seconds";
+      }, 2000);
+    </script>
+  </body>
+</html>
