@@ -1,7 +1,7 @@
 function greet(name) {
   return `Hello, ${name}!`;
 }
-console.log(greet("Eva"));
+console.log(greet("Evangeline"));
 
 const square = (num) => num * num;
 console.log(square(4)); 
