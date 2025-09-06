@@ -14,6 +14,6 @@ class Student extends Person {
   }
 }
 
-const student1 = new Student("Alex");
-student1.sayHello(); // Hi, I am Alex
-student1.study();    // Alex is studying
+const student1 = new Student("Eva");
+student1.sayHello();
+student1.study();    
