@@ -1,5 +1,5 @@
 let aboutMe = {
-  name: "Eva",
+  name: "Evangeline",
   age: 20,
   course: "BSIS",
   introduce() {
