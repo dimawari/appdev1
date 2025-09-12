@@ -1,0 +1,2 @@
+Realization: What did you notice about the commit history after switching from macro to micro commits?
+- I've realized that  it's much better to practice micro commits especially non-coders like me to avoid commiting irreversible actions that might affect the code.
