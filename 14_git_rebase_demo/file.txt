@@ -1,0 +1,4 @@
+What did you notice about the commit history after rebase?
+- I saw that after the rebase, the commits from the feature branch were "replayed" on top of the latest commits in the main branch.
+This means the commit history looks linear, as if the feature was developed after the hotfixes. The commit hashes of the feature commits also changed, since rebase rewrites commit history. 
+Overall, the history is cleaner and avoids merge commits.

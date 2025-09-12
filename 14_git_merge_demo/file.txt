@@ -1,0 +1,3 @@
+What did you notice about the commit history after merge?
+-After the merge, the feature commits became part of main, creating a clean, linear history. Since the branch was rebased earlier, there were no merge conflicts.
+A stash was also created to temporarily save local changes.
