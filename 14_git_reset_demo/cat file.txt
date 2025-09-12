@@ -1,8 +1,0 @@
-What did you notice about the file and commit history after reset?
-- I've realized that using git reset --hard, all of the changes you've made inside the file will be lost.
-However, by staging (and adding commit messages for the other files), you won't lose your progress even after using the hard reset unlike what I've thought it would do.
-
-PS C:\Users\evangeline\appdev1\14_git_reset_demo> git log --oneline      
-ca747ff (HEAD -> main) Add Line 3
-741d2ea Add Line 2
-de7a072 Add Line 1
