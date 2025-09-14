@@ -1,19 +1,23 @@
-import './App.css'
+import './App.css';
 
-export default App
 
-function MyComponent (){
+export default function App() {
   return (
-    <button>This is MyComponent Button</button>
+    <div>
+      <ParentComponent />
+    </div>
   );
 }
 
-
-function ThisButton() {
+function ParentComponent() {
   return (
     <div>
-      <h1>Welcome to my app</h1>
-      <ThisButton />
+      <h2>I am the Parent</h2>
+      <ChildComponent />
     </div>
   );
+}
+
+function ChildComponent() {
+  return <p>I am the Child component</p>;
 }
