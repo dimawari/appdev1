@@ -40,3 +40,17 @@ export default function App() {
   return <h2 style={style}>Basta Heading 'To</h2>;
 }
 
+
+export default function App() {
+  const user = {
+    name: 'Taylor and Hayley',
+    imageUrl: 'https://www.billboard.com/wp-content/uploads/2023/07/Taylor-Swift-and-Hayley-Williams-2010-billboard-1548.jpg?w=942&h=623&crop=1'
+  };
+
+  return (
+    <div>
+      <p>Name: {user.name}</p>
+      <img src={user.imageUrl} alt={user.name} />
+    </div>
+  );
+}
