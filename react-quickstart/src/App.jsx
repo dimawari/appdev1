@@ -54,3 +54,17 @@ export default function App() {
     </div>
   );
 }
+
+
+export default function App() {
+  const isDaytime = false;
+  let message;
+
+  if (isDaytime) {
+    message = <p>Good morning!</p>;
+  } else {
+    message = <p>Good evening!</p>;
+  }
+
+  return <div>{message}</div>;
+}
