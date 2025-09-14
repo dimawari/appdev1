@@ -30,3 +30,13 @@ function ChildComponent() {
     </div>
   );
 }
+
+export default function App() {
+  const style = {
+    color: 'blue',
+    fontSize: '20px'
+  };
+
+  return <h2 style={style}>Basta Heading 'To</h2>;
+}
+
