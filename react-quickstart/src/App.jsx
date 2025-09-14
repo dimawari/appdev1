@@ -21,3 +21,12 @@ function ParentComponent() {
 function ChildComponent() {
   return <p>I am the Child component</p>;
 }
+
+{
+  return (
+    <div>
+      <h1>Hello, Beh!</h1>
+      <p>This is a markup a.k.a JSX.</p>
+    </div>
+  );
+}
