@@ -68,3 +68,28 @@ export default function App() {
 
   return <div>{message}</div>;
 }
+
+
+const products = [
+  { title: 'Carrot', isFruit: false, id: 1 },
+  { title: 'Blueberry', isFruit: false, id: 2 },
+  { title: 'Tomato', isFruit: true, id: 3 },
+];
+
+export default function ShoppingList() {
+  const listItems = products.map(product =>
+    <li
+      key={product.id}
+      style={{
+        color: product.isFruit ? 'blue' : 'darkgreen'
+      }}
+    >
+      {product.title}
+    </li>
+  );
+
+  return (
+    <ul>{listItems}</ul>
+  );
+}
+
