@@ -4,13 +4,25 @@ function App() {
   return (
     <>
       <article>
-  <h1>My First Component</h1>
-  <ol>
-    <li>Components: UI Building Blocks</li>
-    <li>Defining a Component</li>
-    <li>Using a Component</li>
-  </ol>
-</article>
+        <h1>My First Component</h1>
+        <ol>
+          <li>Components: UI Building Blocks</li>
+          <li>Defining a Component</li>
+          <li>Using a Component</li>
+        </ol>
+      </article>
+
+      <PageLayout>
+        <NavigationHeader>
+          <SearchBar />
+          <Link to="/docs">Docs</Link>
+        </NavigationHeader>
+        <Sidebar />
+        <PageContent>
+          <TableOfContents />
+          <DocumentationText />
+        </PageContent>
+      </PageLayout>
     </>
   );
 }
