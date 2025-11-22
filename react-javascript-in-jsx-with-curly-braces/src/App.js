@@ -13,8 +13,8 @@ export default function Avatar() {
 export default function TodoList() {
   return (
     <ul style={{
-      backgroundColor: 'white',
-      color: 'blue'
+      backgroundColor: 'green',
+      color: 'black'
     }}>
       <li>Improve the videophone</li>
       <li>Prepare aeronautics lectures</li>
